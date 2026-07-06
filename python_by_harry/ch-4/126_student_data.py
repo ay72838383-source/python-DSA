@@ -1,0 +1,13 @@
+marks = []
+g1 = int(input("enter your 1st marks: "))
+marks.append(g1)
+g2 = int(input("enter your 1st marks: "))
+marks.append(g2)
+g3 = int(input("enter your 1st marks: "))
+marks.append(g3)
+g4= int(input("enter your 1st marks: "))
+marks.append(g4)
+g5= int(input("enter your 1st marks: "))
+marks.append(g5)
+marks.sort()
+print(marks)
